@@ -1,0 +1,11 @@
+# 다음과 같은 폴더 무시
+Library/
+Logs/
+obj/
+UserSettings/
+.vs/
+
+#파일 무시
+.vsconfig
+A_Star_Algorithm_Tutorial.sln
+Assembly-CSharp.csproj
